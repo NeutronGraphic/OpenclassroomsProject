@@ -1,2 +1,2 @@
 # OpenclassroomsProject
-gathers all the training projects realized on Openclassroom
+gathers all the training projects realized on Openclassroom and others.
